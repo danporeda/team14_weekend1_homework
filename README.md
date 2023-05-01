@@ -21,3 +21,6 @@
 - transaction hash: 0x87e8ec8eb12473269e45747870688de36d5e0e9485849eb69941e9cfbf3eec0f
 9. Owner 0xee69153da5cceabffc11f20212938c48d98afb5c (Dan) sets text "Now I'm the captain"
 - transaction hash: 0x147658a16207e838a276bcd776136e349dec6e3c44a1b7036064c298de57b33d
+
+
+contributors (by discord handle): Dan P, michaelbtan, b3ny, klein, TheLizards
